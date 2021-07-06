@@ -1,15 +1,15 @@
 ### Olá para todos 👋
 
 <p> Sou Mateus mas pode me chamar de Moura =). </p>
-<p> Atualmente estudo Tailwind, NodeJs, React-Native e UI/UX. </p>
+<p> Atualmente venho estudando intensivamente React, NodeJS e Typescript. </p>
 
 Tenho habilidades em:
-- HTML5
+- React
+- NodeJS
+- Typescript
+- Html5
 - CSS
 - Tailwind
-- NodeJs
-- SQLServer
-- React-Native
 
 🔭 Sou analista de sistemas onde atuo na área de negócios da empresa e na área desenvolvimento de novos projetos. Desenvolvendo o backend e elaborando protótipos das interfaces através de Figma ou AdobeXD, levando em consideração a experiência do usuário. 
 
