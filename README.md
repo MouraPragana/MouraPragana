@@ -13,6 +13,6 @@ Tenho habilidades em:
 
 🔭 Sou analista de sistemas onde atuo na área de negócios da empresa e na área desenvolvimento de novos projetos. Desenvolvendo o backend e elaborando protótipos das interfaces através de Figma ou AdobeXD, levando em consideração a experiência do usuário. 
 
-<p> ⚡ Curiosidade: Sou fascinado em xadrez mas sou ruim =( </p>
+<p> ⚡ Curiosidade: Sou fascinado em xadrez </p>
 
 Meu contato: :e-mail: mateuspragana@gmail.com
