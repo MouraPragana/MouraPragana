@@ -16,6 +16,6 @@ I'm working on:
 * Learning UI and UX experience 
 * Improving logic programming
 
-🔭 I'm system analyst focusing on the business side and focusing on the development of new projects as back end developer. My main activities are based on supporting ERP Protheus Users and coding the back end of the Company's projects.
+🔭 I'm system analyst focused on the business side and focusing on the development of new projects as back end developer. My main activities are based on supporting ERP Protheus Users and coding the back end of the Company's projects.
 
 ⚡ Facts about me: I really enjoy playing chess !
