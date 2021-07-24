@@ -18,4 +18,16 @@ I'm working on:
 
 🔭 I'm system analyst focused on the business side and focused on the development of new projects as back end developer. My main activities are based on supporting ERP Protheus Users and coding the back end of the Company's projects.
 
+<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraPragana&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
+<h3>🛠 &nbsp; Knowledge</h3>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<br />
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<br />
+<br />
+<br />
 ⚡ Facts about me: I really enjoy playing chess !
