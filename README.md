@@ -8,7 +8,7 @@
 </a>
 </p>
 
-Welcome to my Github page, my name is Matthew but you can call me Moura. I'm from Brazil and I was born and raised in Volta Redonda, a small town in Rio de Janeiro. I like spending my time facing new challenges and learning new things. I'm graduated on Production Engineering and I've been studying system analysis and development.
+Welcome to my Github page, my name is Matthew but you can call me Moura. I'm from Brazil and I was born and raised in Volta Redonda, a small town in Rio de Janeiro. I like spending my time facing new challenges and learning new subjects. I'm graduated on Production Engineering and I've been studying system analysis and development.
 
 I'm working on:
 * Learning ReactJS Typescript
