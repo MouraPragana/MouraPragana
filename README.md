@@ -1,8 +1,8 @@
 ### Sejam bem vindos ! 
 
-<p>Olá, tudo bem com vocês? Sou Mateus de Moura e atualmente trabalho como analista de sistemas onde dou suporte para o ERP - Protheus da empresa, e também realizo algumas criações de módulos e correções na aplicação da intranet da empresa, onde o front-end é em React TS e o backend é em NestJS.</p>
+<p>Olá, tudo bem com vocês? Sou Mateus de Moura e atualmente trabalho como analista de sistemas realizando suporte para o ERP Protheus, também realizo algumas criações de módulos e correções na intranet, onde o front-end é em React TS e o backend é em NestJS.</p>
 
-<p>Tenho muita vontade de trabalhar com o desenvolvimento e para isso estou realizando o curso Ignite da Rocketseat, onde estou na metade da trilha React e posteriormente pretendo estudar a Trilha NodeJS para ir expandindo meu Portfólio.</p>
+<p>Tenho muita vontade de trabalhar com o desenvolvimento e para isso estou realizando o curso Ignite da Rocketseat, me encontro na metade da trilha React e posteriormente pretendo estudar a Trilha NodeJS para expandir meu Portfólio.</p>
 
 <p>No link abaixo você consegue visualizar o meu repositório sumário da Trilha React da Rocketseat.</p>
 
